@@ -2,3 +2,6 @@ POO 1
 POO I
 BASE DE DATOS
 APLICACIONES WEB
+matematicas discretas
+arquitectura
+adminitrasion
